@@ -8,7 +8,7 @@ Here are some other resources we brought up in our Student Opportunity Lab:
 ### Meetup Groups focused on Women in Technology:
 * Girl Develop It <https://www.girldevelopit.com>
 * Women Who Code <https://www.womenwhocode.com>
-* RailsBridge <www.railsbridge.org>
+* RailsBridge <www.railsbridge.org> (their resources are also really good - <http://www.railsbridge.org/learn/resources>)
 * RailsGirls  <http://railsgirls.com/>
 
 ### Women in Tech Groups
