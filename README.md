@@ -10,6 +10,8 @@ Here are some other resources we brought up in our Student Opportunity Lab:
 * Women Who Code <https://www.womenwhocode.com>
 * RailsBridge <www.railsbridge.org> (their resources are also really good - <http://www.railsbridge.org/learn/resources>)
 * RailsGirls  <http://railsgirls.com/>
+* Women 2.0 <http://women2.com/>
+* For others, check out Meetup.com <http://meetup.com/>
 
 ### Women in Tech Groups
 * The Women in Tech slack channel is a great place to ask questions or find other women programmers
@@ -22,9 +24,10 @@ Here are some other resources we brought up in our Student Opportunity Lab:
 
 ### Interviewing Resources
 * Interview Cake - <https://www.interviewcake.com/>
-* Cracking the Coding Interview - <http://www.amazon.com/Cracking-Coding-Interview-6th-Edition/dp/0984782850>
+* Cracking the Coding Interview (know your data structures) - <http://www.amazon.com/Cracking-Coding-Interview-6th-Edition/dp/0984782850>
 * Julia Grace's "An Unconventional Guide for Getting a Software Engineering Job -  <http://www.juliahgrace.com/blog/2015/4/9/an-unconventional-guide-for-getting-a-software-engineering-job>
 * Julia Evans' excellent "Questions I'm Asking in Interviews" -  <http://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/>
+* Adnan Aziz's Elements of Programming Interviews (more practice problems!) - <http://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836/>
 
 ### Job listing resources (thanks to [@sienatime](https://twitter.com/sienatime>) for these)
 * Angel.co - <https://angel.co/> this is specifically for startups that are hiring.
@@ -32,6 +35,7 @@ Here are some other resources we brought up in our Student Opportunity Lab:
 * Hacker News who's hiring thread - this gets the most traffic on the first of every month but is definitely a good resource <https://news.ycombinator.com/item?id=8394339> (that's an example month) This is not limited to the Bay Area but still a good place to find jobs that might not otherwise be listed. 
 * HackerX - <http://www.hackerx.org/> this was described to me as "Hackbright career day but for everyone"
 * Hackmatch - <http://hackmatch.com/>
+* LinkedIn - LinkedIn has jobs posted. Another good way to use LinkedIn is to connect with people and look through their connections. If you see a person you'd like to speak to, ask the person you know if they would be comfortable introducing you that person.
 
 ####I don't have any experience with these, but people have mentioned them
 * Power to Fly - <https://www.powertofly.com/>
