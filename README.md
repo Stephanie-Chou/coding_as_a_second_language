@@ -21,10 +21,10 @@ Here are some other resources we brought up in our Student Opportunity Lab:
 * If you're interested in finding a pairing partner, check out <https://www.os4w.org/>
 
 ### Interviewing Resources
-* Interview Cake <https://www.interviewcake.com/>
-* Cracking the Coding Interview <http://www.amazon.com/Cracking-Coding-Interview-6th-Edition/dp/0984782850>
-* Julia Grace's "An Unconventional Guide for Getting a Software Engineering Job <http://www.juliahgrace.com/blog/2015/4/9/an-unconventional-guide-for-getting-a-software-engineering-job>
-* Julia Evans' excellent "Questions I'm Asking in Interviews" <http://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/>
+* Interview Cake - <https://www.interviewcake.com/>
+* Cracking the Coding Interview - <http://www.amazon.com/Cracking-Coding-Interview-6th-Edition/dp/0984782850>
+* Julia Grace's "An Unconventional Guide for Getting a Software Engineering Job -  <http://www.juliahgrace.com/blog/2015/4/9/an-unconventional-guide-for-getting-a-software-engineering-job>
+* Julia Evans' excellent "Questions I'm Asking in Interviews" -  <http://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/>
 
 ### Job listing resources (thanks to [@sienatime](https://twitter.com/sienatime>) for these)
 * Angel.co - <https://angel.co/> this is specifically for startups that are hiring.
@@ -43,3 +43,9 @@ Here are some other resources we brought up in our Student Opportunity Lab:
 * Madison Ruby - <http://confreaks.tv/conferences/madison-ruby>
 * RubyConf - <http://confreaks.tv/conferences/ruby-conference>
 * PyVideo - <http://pyvideo.org/>
+ 
+Please feel free to submit a pull request with any other resources you'd like to see listed here!
+
+Stella (stella@stellacotton.com)
+
+
